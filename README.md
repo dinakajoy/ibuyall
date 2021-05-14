@@ -1,20 +1,20 @@
 # ibuyall
 This is a mini e-commerce app built with TypeScript, React, Styled-Components, Material-UI, Express and Postgres Database
 
-## Installation  
-Clone the repository and cd into the project directory  
-### For Client App  
-cd into the client directory  
-To start the app for development, run `nmp start`  
-To build the project for production, run `npm run build`  
+## Installation
+Clone the repository and cd into the project directory
+### For Client App
+cd into the client directory
+To start the app for development, run `nmp start`
+To build the project for production, run `npm run build`
 ### For API/Server
-cd into the server directory  
-To start the app for development, run `nmp dev-start`  
-To build the project for production, run `npm start`  
+cd into the server directory
+To start the app for development, run `nmp dev-start`
+To build the project for production, run `npm start`
 
 ## Usage
-Select desired product  
-Add more quantity if you desire, enter your details and submit  
+Select desired product
+Add more quantity if you desire, enter your details and submit
 
 ## Built With
 * HTML - For the markup
@@ -29,4 +29,4 @@ Add more quantity if you desire, enter your details and submit
 Access app via #
 
 ## Author
-[Odinaka Joy](https://odinakajoy.com)
+[Odinaka Joy](http://dinakajoy.com)
